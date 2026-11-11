@@ -1,1 +1,3 @@
-# git_github_huggingface_terminal_fetch_8078_docs_site_k7d2q
+# docs-site
+
+Static-site generator configuration and theme assets for the internal documentation portal. Content is pulled from the individual project repositories at build time.
